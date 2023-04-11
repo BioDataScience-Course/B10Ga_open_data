@@ -51,3 +51,6 @@ La deuxième partie de ce travail est de proposer une critique des données sél
 Enfin la dernière partie de ce projet consiste dans la reproduction de l'analyse multivariée sur base des données sélectionnées dans le document **docs/analysis.Rmd**. Citez correctement vos données et l'article scientifique employé.
 
 N'oubliez pas de **knitter** les documents en HTML à la fin du travail pour vérifier que tout fonctionne bien, et corrigez les erreurs éventuelles rencontrées à ce stade avant de clôturer votre travail. Vérifiez également que votre dernier commit a bien été pushé sur GitHub avant la deadline.
+
+Ce projet correspond au template <https://github.com/BioDataScience-Course/B10Ga_open_data>.
+
