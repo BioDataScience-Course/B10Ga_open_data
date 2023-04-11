@@ -1,4 +1,4 @@
-# Reproduction d’une analyse multivariée d'un article avec des données ouvertes
+# Reproduction d'une analyse multivariée d'un article avec des données ouvertes
 
 La science actuelle réalise un tournant depuis ces dernières années afin d'être ouverte. Le terme en anglais est *Open Science*, science ouverte. Cette volonté de rendre accessible la science est venue de pair avec l'*Open data*, données ouvertes.
 
@@ -48,4 +48,6 @@ Nous vous proposons plusieurs sites en ligne pour vous aider dans vos recherches
 
 La deuxième partie de ce travail est de proposer une critique des données sélectionnées sur base du principe FAIR dans le document **docs/open_data.Rmd**.
 
-Enfin la dernière partie de ce projet consiste dans la reproduction de l'analyse multivariée sur base des données sélectionnées dans le document **docs/analysis.Rmd**.
+Enfin la dernière partie de ce projet consiste dans la reproduction de l'analyse multivariée sur base des données sélectionnées dans le document **docs/analysis.Rmd**. Citez correctement vos données et l'article scientifique employé.
+
+N'oubliez pas de **knitter** les documents en HTML à la fin du travail pour vérifier que tout fonctionne bien, et corrigez les erreurs éventuelles rencontrées à ce stade avant de clôturer votre travail. Vérifiez également que votre dernier commit a bien été pushé sur GitHub avant la deadline.
