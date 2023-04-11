@@ -1,0 +1,9 @@
+---
+title: "___"
+author: "___"
+date: "___"
+output: html_document
+---
+
+<!--% Proposez une critique des données que vous avez sélectionnées selon le principe FAIR. La structure du document est libre. Ce document ne peut excéder 300 mots (plus ou moins 1 page). -->
+

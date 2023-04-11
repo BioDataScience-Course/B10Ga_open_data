@@ -1,0 +1,9 @@
+---
+title: "___"
+author: "___"
+date: "___"
+output: html_document
+---
+
+<!--% Reproduisez l'analyse réalisée dans l'article associé à vos données. Soyez critique sur cette l'analyse. La structure du document est libre. Le code doit être clair et commenté. Chaque graphique, tableau ou analyse doit être décrit en Markdown. Ce document ne peut excéder 900 mots. -->
+
