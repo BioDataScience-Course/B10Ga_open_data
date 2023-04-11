@@ -5,5 +5,20 @@ date: "___"
 output: html_document
 ---
 
-<!--% Reproduisez l'analyse réalisée dans l'article associé à vos données. Soyez critique sur cette l'analyse. La structure du document est libre. Le code doit être clair et commenté. Chaque graphique, tableau ou analyse doit être décrit en Markdown. Ce document ne peut excéder 900 mots. -->
+<!--% Reproduisez l'analyse réalisée dans l'article associé à vos données. Soyez critique sur cette l'analyse.-->
 
+# Introduction
+
+<!--% Précisez en deux paragraphes les éléments essentiels à la compréhension de l'analyse (contexte).-->
+
+# Matériel et méthodes
+
+<!--% Précisez en deux paragraphes le matériel et les méthodes pour comprendre l'analyse multivariée réalisée. -->
+
+# But
+
+<!--% Reformulez les objectifs de l'article en lien avec l'analyse multivariée.-->
+
+# Analyses
+
+<!--% Reproduisez l'analyse réalisée dans l'article associé à vos données. Soyez critique sur cette l'analyse. La structure est de cette section est libre. Le code doit être clair et commenté. Chaque graphique, tableau ou analyse doit être décrit en Markdown.-->
