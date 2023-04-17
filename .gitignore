@@ -55,3 +55,6 @@ docs/*_files/
 
 # Test file
 test/**
+
+# Data in cache
+data/cache/

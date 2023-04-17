@@ -5,20 +5,20 @@ date: "___"
 output: html_document
 ---
 
-<!--% Reproduisez l'analyse réalisée dans l'article associé à vos données. Soyez critique sur cette l'analyse.-->
+<!--% Chunk de setup à créer ici... -->
 
-# Introduction
+# Introduction et but
 
-<!--% Précisez en deux paragraphes les éléments essentiels à la compréhension de l'analyse (contexte).-->
+<!--% Précisez en deux paragraphes maximum ce que vous allez analyser et pour répondre à quelle question biologique. -->
 
 # Matériel et méthodes
 
-<!--% Précisez en deux paragraphes le matériel et les méthodes pour comprendre l'analyse multivariée réalisée. -->
-
-# But
-
-<!--% Reformulez les objectifs de l'article en lien avec l'analyse multivariée.-->
+<!--% Centrez-vous sur les données uniquement ici : d'où proviennent-elles ? Comment ont-elles été récoltées ? Etc. Il ne s'agit pas de faire un copier-coller du document `open_data.Rmd`, mais de rédiger ceci comme un texte propice pour une section matériel et méthodes d'un rapport. Deux paragraphes maximum. -->
 
 # Analyses
 
-<!--% Reproduisez l'analyse réalisée dans l'article associé à vos données. Soyez critique sur cette l'analyse. La structure est de cette section est libre. Le code doit être clair et commenté. Chaque graphique, tableau ou analyse doit être décrit en Markdown.-->
+<!--% Réalisez une SOM sur les données et interprétez-là. Si l'analyse n'est pas possible, démontrez pourquoi. Section non limitée en taille. -->
+
+# Discussion et conclusions
+
+<!--% Discutez et concluez à la fois sur les données et sur l'analyse éventuelle. Si l'analyse n'a pas pu être réalisée, justifiez en détail pourquoi vous n'aviez pas pu déterminer avant le chargement et le remaniement des données qu'elles ne se prêtent pas à une analyse de type SOM. Section non limité en taille. -->
