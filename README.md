@@ -28,7 +28,7 @@ Ce projet est **libre** et sera réalisé en **groupes de quatre étudiants**. R
 
 ## Consignes
 
-La première étape de ce travail consiste dans la recherche de données ouvertes. Vous suivrez les instruction du fichier `data/README` pour récupérer vos données depuis une URL de téléchargement directe avec mise en cache dans `data/cache`. Si ce n'est pas possible, il faudra le justifier dans le rapport et placer les données manuellement dans le sous-dossier `data` (max 2Go). **Avant de faire un choix définitif de votre jeu de données, assurez-vous que le contenu du tableau de données convient pour la réalisation d'une analyse multivariée de type SOM**. Cela fait partie de l'exercice que de choisir un jeu de données adéquat ici !
+La première étape de ce travail consiste dans la recherche de données ouvertes. Vous suivrez les instruction du fichier `data/README` pour récupérer vos données depuis une URL de téléchargement directe avec mise en cache dans `data/cache`. Si ce n'est pas possible, il faudra le justifier dans le rapport et placer les données manuellement dans le sous-dossier `data` (max 50Mo). **Avant de faire un choix définitif de votre jeu de données, assurez-vous que le contenu du tableau de données convient pour la réalisation d'une analyse multivariée de type SOM**. Cela fait partie de l'exercice que de choisir un jeu de données adéquat ici !
 
 Voici plusieurs sites que vous pouvez utiliser pour rechercher vos données :
 
