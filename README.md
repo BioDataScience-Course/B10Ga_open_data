@@ -1,6 +1,6 @@
 # Analyse de données ouvertes choisies librement
 
-La science est de plus en plus *ouverte* (le terme en anglais est **Open Science**). Il s'agit ici de rendre les analyses accessibles et de documenter tout le processus qui mène aux résultats obtenus. Les publications sont aussi librement accessibles en Open Science. Cette volonté de rendre la science plus transparente va de pair avec l'*Open Data*, données ouvertes. Cela signifie que les données sont également rendue publiques et accessibles.
+La science est de plus en plus *ouverte* (le terme en anglais est **Open Science**). Il s'agit ici de rendre les analyses accessibles et de documenter tout le processus qui mène aux résultats obtenus. Les publications sont aussi librement accessibles en Open Science. Cette volonté de rendre la science plus transparente va de pair avec l'*Open Data*, données ouvertes. Cela signifie que les données sont également rendues publiques et accessibles.
 
 Lors de la publication d'articles scientifiques, il est de plus en plus courant que les revues demandent aux auteurs de rendre leurs données disponibles en Open Data. Il est même conseillé de fournir le code employé pour réaliser les analyses statistiques. On peut mettre en avant quelques avantages de ces bonnes pratiques :
 
@@ -14,7 +14,7 @@ Lors de la publication d'articles scientifiques, il est de plus en plus courant 
 
 -   Meilleure collaboration : en partageant les données et le code, les scientifiques peuvent collaborer plus facilement pour résoudre des problèmes complexes.
 
-La mise à disposition des données (et du code) doit respecter certains critères que l'on peut regrouper sous l'acronyme FAIR pour **Findable**, **Accessible**, **Interoperable**, **Reusable**. Des données qui ne respectent pas ces critères sont partiellement, voire totalement inutilisables.
+La mise à disposition des données (et du code) doit respecter certains critères que l'on peut regrouper sous l'acronyme FAIR pour **Findable**, **Accessible**, **Interoperable**, **Reusable**. Les données qui ne se conforment pas à ces critères peuvent être partiellement ou même totalement inutilisables.
 
 ## Objectifs
 
@@ -26,7 +26,7 @@ Ce projet est **libre** et sera réalisé en **groupes de quatre étudiants**. R
 
 ## Consignes
 
-La première étape consiste en la recherche de données ouvertes. Vous suivrez les instruction du fichier `data/README` pour récupérer vos données depuis une URL de téléchargement direct avec mise en cache dans `data/cache`. Si ce n'est pas possible, il faudra le justifier dans le document `open_data.qmd` et placer les données manuellement dans le sous-dossier `data` (max 50Mo). **Avant de faire un choix définitif de votre jeu de données, assurez-vous que le contenu du tableau de données convient pour la réalisation d'une analyse multivariée de type SOM**. Cela fait partie de l'exercice que de choisir un jeu de données adéquat ici !
+La première étape consiste en la recherche de données ouvertes. Vous suivrez les instructions du fichier `data/README` pour récupérer vos données depuis une URL de téléchargement direct avec mise en cache dans `data/cache`. Si ce n'est pas possible, il faudra le justifier dans le document `open_data.qmd` et placer les données manuellement dans le sous-dossier `data` (max 50Mo). **Avant de faire un choix définitif de votre jeu de données, assurez-vous que le contenu du tableau de données convient pour la réalisation d'une analyse multivariée de type SOM**. Cela fait partie de l'exercice que de choisir un jeu de données adéquat ici !
 
 Voici plusieurs sites que vous pouvez utiliser pour rechercher vos données :
 

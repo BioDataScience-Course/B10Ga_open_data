@@ -35,7 +35,7 @@ SciViews::R("___", lang = "fr")
 
 # Résultats
 
-<!--% Vos données doivent être récupérables de l'une des deux manières suivantes : (1) lien URL et mise en cache dans data/cache ou (2) données placées dans data, et ce, dans un chunk obligatoirement nommé 'import'. Dans les deux cas, vous utilisez la fonction `read()` pour les récupérer. Ajoutez ensuite autant de chunks que nécessaire pour le remaniement éventuel est données. -->
+<!--% Vos données doivent être récupérables de l'une des deux manières suivantes : (1) lien URL et mise en cache dans data/cache ou (2) données placées dans data, et ce, dans un chunk obligatoirement nommé 'import'. Dans les deux cas, vous utilisez la fonction `read()` pour les récupérer. Ensuite, ajoutez autant de chunks que nécessaire, pour le remaniement éventuel des données. -->
 
 ```{r import}
 ___ <- read(___)
@@ -48,6 +48,6 @@ ___
 
 # Discussion et conclusions
 
-<!--% Discutez et concluez à la fois sur les données et sur l'analyse. Section non limité en taille. -->
+<!--% Discutez et concluez à la fois sur les données et sur l'analyse. Section non limitée en taille. -->
 
 <!--% Bonus : ajoutez une section "Références" pour pointer vers des sources externes relatives à vos données ou à votre analyse et citez correctement vos sources dans l'introduction, le matériel et méthodes et la discussion en utilisant les balises R Markdown. -->
